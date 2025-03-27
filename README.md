@@ -16,7 +16,7 @@ I am currently studiyng at kood jõhvi.
 
 ## Skills & Tools
 - 💻 Beginning Java programming
-- 🛠️ [Other relevant skills you may have]
+- 🛠️ working to add more tools in my toolbox
 
 ## Projects
 *Coming soon as I progress in my learning!*
